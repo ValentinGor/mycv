@@ -635,3 +635,10 @@ footer {
     right: 20px;
     cursor: pointer;
 }
+
+.container {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto;
+}
